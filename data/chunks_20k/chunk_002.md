@@ -1,0 +1,138 @@
+We live in a world of limited resources. Hence, companies are compelled to operate efficiently. That means making optimum use of available resources and avoiding waste. They must develop strategies that can be implemented with these resources. If the resources are available, efficient operations are a zerosum game: Whatever we use the resources for will reduce their availability for alternative allocations. If we want to invest more money in one company area, we have to save the "more" in other areas. Thus, distributing company resources is liable to goal conflicts and requires decisions that weigh up the benefits and costs of each allocation ("trade-offs"). It is the task of company executives to make these decisions. Therefore, the finite nature of resources is the first fundamental reason why strategy is needed.
+
+---
+
+
+The second fundamental reason is competition. Companies never operate in a vacuum. They compete with others. Even if they have an outstanding market position, they are vulnerable. Let us take Intel as an example. For a long time, the US company was the global market leader in microprocessors for computers, with a market share of more than 80 percent, followed only by AMD with a market share below 20 percent. Since 2016, Intel's market share has shrunk continually to just under 60 percent, while AMD has doubled its market share. What happened? Intel's competitive advantage stemmed from superior product technology, excellence in production, and a strong brand ("Intel inside"). Spoiled by their success, the company had underestimated the upheavals taking place in technology and in the use of microprocessors. The smartphone revolution passed them by. After making massive investments in supermodern production technology and capacity in this industry segment, Taiwanese company TSCM established itself as market leader with a market share of more than 50 percent, leaving both Samsung and Intel far behind. As well as producing microprocessors for smartphones and the automobile industry, TSCM is also a highly efficient contract manufacturer for AMD's innovative microprocessors. With lower costs, better manufacturing and higher product quality thanks to its cooperation with TSCM, AMD significantly improved its market share to the detriment of Intel.
+
+The competition between Intel and AMD appears to be a zero-sum game, because AMD has gained about 20 percentage points in market share, while Intel lost this size share. But competition does not necessarily deliver an "I-win-what-you-lose" result. Instead, competition is often a non-zero-sum game. For example, when competition leads to better products and increased demand, all competitors can profit. A "win-win" situation emerges. Conversely, a price war leads to a "win" for customers but to a "lose-lose" for the competing companies.
+
+Now the challenge for your company lies in mastering the two opposing "games" the internal allocation game and the external competition game - simultaneously, and additionally under time pressure, in environments that are difficult to read because of systemic complexity and volatile dynamics. It requires strategic thought and action, meaning acting instead of reacting. But how should we act? By first asking and answering the following relevant questions.
+
+# THE QUESTIONS YOU SHOULD ASK AND ANSWER 
+
+In a nutshell, strategy is the mandatory response to the reality of limited resources and of competition in constantly changing environments. It is a risky bet on an uncertain future. To ensure they do not become victims of this future, strategists should attempt to shape the future proactively. To do this, five fundamental questions should be answered:
+
+---
+
+
+Business enterprises are profit oriented. Their core financial goal is profitability: The return on the capital invested should exceed the cost of using equity and debt capital.
+\#2: WHO DEFINES WHAT THE COMPANY SHOULD STRIVE FOR, WHO MAKES THE GOAL-RELATED DECISIONS, AND WHO SHOULD EXECUTE THEM?
+
+It is the responsibility of company management to set the course for the company, define the goals, set priorities, delineate the master plan for the envisaged activities, make the necessary resources available, create adequate structures and processes for implementing the strategy, and monitor the execution of the strategy.
+
+# \#3: WHY AND FOR WHOM DO WE WANT TO ACHIEVE THESE SPECIFIC GOALS? 
+
+Strategy requires clarity about the purpose of the company and a perspective for the future. Company management must map out the long-term intention for the company in a meaningful "narrative", and also paint a convincing picture of what the future could look like if the envisaged strategy is realized, and what this means for the various stakeholders in the company.
+
+## \#4: WHERE AND WHEN DO WE WANT TO DEPLOY OUR RESOURCES AND COMPETENCIES?
+
+A corporate strategy specifies where, when and within what scope the company will operate. Since the available resources are limited, the internal zero-sum game we previously described occurs here. Potential courses of action must be considered as to whether they are substitutive in their consumption of resources, and thus lead to allocation conflicts, or whether they potentially complement each other and create viable synergies.
+
+These allocation questions must be decided by the highest level of management with the aim of finding the company's optimum adaptation to its field of activity. Creating the right strategic "fit" is an ongoing task. Because the strategic environment is constantly changing, the strategy's sustained applicability must be constantly reviewed.
+
+## \#5: HOW SHOULD RESOURCES AND COMPETENCIES BE DEPLOYED?
+
+A key element of corporate strategy consists of determining how a company should position itself in its various business fields and focus markets and which instruments it should use to acquire profitable customers and keep the competition at bay. A competitive strategy coherently stipulates and integrates the
+
+---
+
+
+required functional strategy elements, such as marketing, distribution, human resources, and research \& development.
+
+The answers to these five core questions will establish how the company wants to optimally use available resources, capital and employees, in competition to realize profits. Since there is seldom a lack of competition, strategy development is predominantly a question of how the company can rise above the competition in the various areas of activity.
+
+# THE TRUTH LIES ON THE FIELD 
+
+What do you do when the good old competition or new opponents cunningly and aggressively attempt to snatch away some of your market share, or even try to drive you out of the market? When the adversaries torpedo your value proposition to your customers with similar offers and predatory pricing? When the rules of the game in your sector abruptly change and yesterday's success no longer counts for anything today? Keep a cool head, take a step back and analyze the current situation carefully. Who are the relevant opponents, the current and potential future ones? What distinguishes them? What are their weaknesses? Who are their customers? What do they want? How can you acquire and retain profitable customers?
+
+Strategy is your plan for how your company should be different so that it can hold sway over the competition, and for which resources and skills you need to do this. In the words of master strategist Michael Porter (1996):
+"Competitive strategy is about being different. It means deliberately choosing a different set of activities to deliver a unique mix of value."
+
+German football coach and player Otto Rehagel famously said: "The truth lies on the field" - meaning that it is measured by the number of goals scored. We need players who can score goals. At the same time, we need players who prevent the opponent from scoring goals. And we have to let everyone on the team play in such a way that they score more goals than the opponent. "Let[ting] them play in such a way" is the game plan or strategy: defensive or offensive play, aggressive interception and fast switching, high ball possession or counterattack, etc. The tactical measures are the rehearsed or improvised moves that are chosen by the players at short notice during their interaction with the opponent.
+
+For companies, the truth is revealed in the market and is measured by the profitability of what has been achieved. You have to have the capability to deploy your limited resources in such a way that you rise above your rivals and are chosen
+
+---
+
+
+by customers. To achieve this otherness, the strategist's first task is to decide what not to do (Porter, 1996, p. 70). And that is no easy decision.
+
+# MAKE BETTER DECISIONS 
+
+Every day, we make around 20,000 decisions. But we only adopt a very small proportion of these decisions consciously, reflecting on them and weighing up costs against benefits. Unlike in academic models of economic decision making, our rationality is bounded. We decide under time pressure, with incomplete information, and impaired by systematic errors of judgment.
+
+Human decision-making processes follow the economic principle which implies reaching a decision with the smallest possible effort (time, processing capacity, etc.). We therefore use simplifying heuristics, even for very complex and momentous decisions, to compensate for our limited rationality. In this process, we intuitively tend to have recourse to our prior experience - and this is where it gets dangerous.
+
+On the one hand, in an era of disruptive and interdependent social and economic transformation processes (digitalization, sustainability, etc.), prior experience ceases to be a competitive advantage. When several variables in a conditional equation simultaneously change radically, the algebra of Management 101 is no longer sufficient to estimate the consequences of the results.
+
+On the other hand, subconscious cognitive distortions, such as anchoring effects, confirmation bias, or selective information processing, foster errors of judgement. If, for example, a decision-making situation is similar to an earlier one, the experience gained and the results achieved in the earlier situation can become an anchor in the new situation if the actual comparability of the situations is not adequately reviewed. Having an awareness of cognitive distortions should be a top priority for strategists, especially when making complex strategic decisions.
+
+Strategic decisions differ fundamentally from tactical or operational measures. Willie Pietersen, Professor of the Practice of Management at Columbia Business School, New York, points out the difference in his seminars:
+"We have to lay the railroad tracks first before we can make the trains run on time."
+Strategy means committing to the future in a particular course of action - investing in tracks and laying them in a particular direction, to continue Pietersen's metaphor - and thus committing yourself. Self-commitment generates longerterm consequences. Therefore, strategic decisions cannot simply be reversed.
+
+---
+
+
+Once the railroad tracks have been laid, they cannot be re-laid in a new direction at short notice. In contrast, tactical measures, like the precise departure and arrival times of the trains, can be changed at short notice. The degree of selfcommitment is minimal, and the modification costs are low.
+
+Even if we do achieve an awareness of our limited rationality in making decisions, if we reduce information deficits and cognitive distortions, we are not home and dry yet. As Nobel Prize winner Daniel Kahnemann (2011) and his co-authors (2021) demonstrate, people in a decision-making situation can reach completely different conclusions and decisions from an identical starting point. Alongside cognitive distortions, Kahnemann et al. cite an additional determining factor: "noise". Wherever people make decisions, they are influenced by a considerable amount of interference that even in identical circumstances leads to different decisions depending on personality. These psychological factors also play a decisive role when defining and implementing a new strategy in a company. Then there are also the decision makers' personal values as well as the sociopsychological dynamics that arise, for example, at the annual closed strategy meeting because of the collaboration or conflict of different alpha personalities.
+
+Isn't all this just a question of process? Can we set up a decision-making process and make it so systematic that the risk of false conclusions is minimized?
+
+## TRUST THE PROCESS
+
+We all have experience of group-based decision-making processes. Frequently, it was a negative experience. Company representatives report to us time and again about ineffective strategy processes that are demotivating and frustrating. Valuable time wasted in countless unstructured and thus fruitless discussion sessions, ego-driven image contests witnessed, and dozens of strategy updates observed. Only to realize at the end with a sinking feeling that the world didn't stop turning and that the entire effort will likely fail to have a significantly positive effect on the company or their own careers. Thus, it is no wonder that decision makers find it difficult to specify the significance and content of strategy and shape the required strategy process successfully.
+
+The strategy process is a difficult project, much more difficult than formulating a strategy. When you have a difficult project, it can be beneficial to initially concentrate on - trust - what you can control - the process - and not the result. "Trust the process" is a familiar slogan used by fans of the Philadelphia 76ers in the US NBA that has now become popular in other fields too. It was coined while the team was going through a difficult phase and means: "Things might look bad now, but we have a plan to make things better."
+
+---
+
+
+That is the crux: We have a plan for how we want to improve. And that in itself is an asset in its own right for managing companies and the people in them. Instead of hoping for better days, a shared plan generates clarity and optimism to be able to actively shape and change our own future instead of becoming a pawn of universal market forces.
+
+From our practical experience, we can identify four key problems in strategy processes:
+
+1. The company strategy has only been vaguely formulated because there is no clarity or consensus at management level about the initial situation, target vision, and action areas. Particularly in larger companies with matrix structures, this invariably leads to contradictory strategies in the company areas and functional divisions. Too many parallel strategic projects emerge. Overview and communication, which should feed into company strategy, and which are interlinked, are lost.
+2. There is no clear process architecture and only inadequate responsibilities for the envisaged implementation.
+3. There is a lack of resources and routines for attending to strategy work alongside day-to-day operations.
+4. The significance of strategy and its effectiveness is usually concealed by business operations and their short-term results in everyday business. Strategy is future-oriented and thus only delivers results with a time delay. If the results are bad, people quickly talk about the wrong strategy. In contrast, if they are good, they say the implementation was successful. This is how a lucky strike is quickly explained and subsequently attributed to strategic procedure. However, the extent to which strategic thought and action really contributed to the result that was achieved frequently remains an unknown entity. Furthermore, good operating results can be instant catapults for managers' careers. So why spend a long time thinking about strategy when the game is decided on the field - or rather in the market?
+
+Are you discouraged now? Disappointed? Can we remove the obstacles, unsatisfactory realities, strategy legends, and human imperfections described above from the strategy process equation? How can strategy development be established in a company "end-to-end", from formulation right up to implementation? In these uncertain and volatile times, is there any sense in thinking about a strategy for a company at all anymore?
+
+---
+
+
+We believe: Yes, there is. Particularly in times of great uncertainty, it is not enough to hope that the right solution will fall from the sky. However, no new theories are required for the strategy debate either. Instead, what we need are approaches and instruments for strategy development and implementation that are also fit for purpose in a company's everyday business.
+
+For this reason, over the past 15 years, we have developed a pragmatic instruction manual of strategic thought and action for strategists - our StrategyFrame ${ }^{\circledR}$ and tested it thoroughly within companies in their specific business contexts. It provides a reference framework for an end-to-end strategy process. The StrategyFrame ${ }^{\circledR}$ supports corporate leaders and their management teams in clarifying the initial situation, setting the strategic focus correctly, and defining the appropriate action areas, as well as prioritizing and tackling adaptation measures in the organization to achieve goals and maintain focus.
+
+Our experience in business practice, in management training, and in the context of consulting have shown us this: Only those who gain clarity about their own situation, set their goals correctly, and know exactly who has to take action when, where, and how, can be in the right place at the right time with the right solution. The StrategyFrame ${ }^{\circledR}$ helps managers gain perspective, retain an overview, and develop foresight. A perfectly balanced strategy process can generate momentum in an organization because people want prospects, sound structures, transparent processes, and consistent actions - the overall picture has to be coherent. Not until they understand why the journey is heading where it is heading will they too come on board and pitch in energetically.
+
+It's true: The game is decided on the field. But our strategy decides whether we are allowed to play, and how we can play. So, is strategy therefore the "supreme discipline" of company management? That is a matter of taste. But it is definitely not a waste of time but a necessity.
+
+# BEING AND STAYING RELEVANT 
+
+How relevant is your company on today's playing fields? If you are convinced of your own relevance, that's nice. But your opinion is irrelevant. What counts is the customer perspective. Therefore, you must ask the existential question you already know: If our company no longer existed tomorrow, would anyone miss it? If the customers' answer is "Yes, of course, they're not easy to replace!" then you have a reason for being, at least for a short time frame, and you are relevant. However, if the answer is, "No, not really, there are plenty of other providers we could switch to very easily!", then your company is a "we-too" case in the best-case scenario, and without substantial change will be pushed out by
+
+If our company no longer existed tomorrow, would anyone miss it?
+
+---
+
+
+the competition sooner or later in the "perennial gale of creative destruction" (Schumpeter, 1942, pp. 82). It goes without saying that we hope for your sake that your customers would miss your company. But as John Maynard Keynes (1924, p. 80) formulated it in another context:
+"In the long run we are all dead."
+That means that even if you enjoy relevance and customer acceptance today, the question of your company's viability arises from the point of view of a longer time frame. Thus, strategy is the answer to the question of how your company can stay relevant.
+
+---
+
+
+# "THE ESSENCE OF STRATEGY IS CHOOSING WHAT NOT TO DO." 
+
+Michael E. Porter, American economist and Professor, Institute for Strategy and Competitiveness, Harvard Business School
+
+---
+
+
+# STRATEGYFRAME ${ }^{\circledR}$

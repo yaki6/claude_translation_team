@@ -1,0 +1,282 @@
+In the final step of Strategy Workshop I, you have to define your strategic priorities. These are the critical factors that make the biggest difference to the success of your strategy. The longer the list of priorities, the slimmer the chance that you will even complete one of them.
+
+## SET THE RIGHT PRIORITIES
+
+The objectives and key results will determine how you will mobilize the resources and skills available in your company to realize the target vision. As soon as the overarching objectives have been defined, they should be communicated throughout the organization. Essentially, this means breaking down the target vision onto the various levels, functions, and people within the organization. We go into this breakdown process in detail in the "Cascade" process step.
+
+The greatest challenge for strategists lies in implementing and executing the strategy once it has been formulated. Let us turn our strategy power into implementation motion. To do this, we will use a tried and tested management method: "OKR = Objectives \& Key Results" - combining objectives with key results, because "implementation is everything. (...) There are so many people working so hard and achieving so little," venture capitalist John Doerr (2018) states in his book, Measure what matters. Doerr got to know OKR as an employee at Intel and later introduced the OKR concept successfully as a venture capitalist at start-ups he supported, like Google. However, it is also suitable for large, complex organizations.
+
+---
+
+
+# OKRS IN THE STRATEGY PROCESS 
+
+OKRs are a management instrument for objective-based steering of companies, teams, or individual people. The origins of OKRs can be found in Peter Drucker's famous "management by objectives" approach, which revolutionized corporate management in the 1950s but in its practical implementation also revealed weaknesses, for example, incentives to realize individual objectives to the detriment of overarching objectives. To eradicate these weaknesses, the co-founder and longstanding CEO of Intel, Andy Grove, refined the approach by introducing the key results. These are objectively measurable criteria (for example, revenue growth) which show the degree to which the objective has been achieved.
+
+The magic of the OKRs emerges through consistency of application. There is a disciplined cycle with a meeting routine that has been adapted to the objective in question to examine and sustain ("tracking) progress.
+
+Correct tracking is important to create transparency about who is pursuing which objectives, where each one stands and what all objectives together are paying into.
+
+Knowing what your own contribution to achieving a shared, higher objective entails, on the one hand contributes to giving the executives or employees involved a sense of purpose. On the other hand, it is important for consistent pursuit of the objective. In reality this is more difficult than it sounds because ultimately it is about sticking to the guidelines and keeping track of their implementation.
+
+In a strategy context, the OKRs that must be set should not be thought of in terms of the frequently prevailing quarterly logic. If you only have 3-month objectives embedded in the main strategy, it can subsequently be difficult because implementation also takes time. For that reason, an expanded temporal range for certain objectives definitely makes sense. Stretch goals can have a time frame of 2 to 3 years, while mid-term goals ("moals") are generally geared to one year. In a subsequent step, the stretch goals or moals can be translated into ambitious 3-month OKR sets to sort the measures you need to develop into the action areas. This enables you to use the OKRs to build a bridge from the target vision to the action areas where targeted measures can be planned with adequate deployment of resources.
+
+---
+
+
+The success of a strategy implementation process often depends on cascading the canon of objectives from corporate level down to the levels below, and particularly to the various business fields. Depending on the size and complexity of the enterprise this can be a very difficult undertaking that frequently can only be managed with software support nowadays. However, the OKRs will support the content management if they display the desired impact, the objectives being pursued and the planned measures with their time frames.
+
+# ADAPTABILITY WITH OKRS 
+
+Critics often find strategy processes lacking in room for agile and flexible action. Once a strategy is selected, it is not written in stone. This is where OKRs develop an important additional benefit. On the one hand, they create a commitment to action, but on the other hand they permit flexibility. This steering instrument opens up the opportunity to adapt certain elements of the strategy without having to change the entire strategy.
+
+You should ask these questions at least once every quarter: How far along are we in achieving our objectives? Are the objectives we have set still the right ones, or do we need to adjust them? Consistent, institutionalized examination and adjustment of the OKRs using the meeting routines improve the implementation of the strategy. That is how you turn the power of your strategy into implementation motion.
+
+OKRs also give space to all involved. In the target spaces, that were developed 60 percent top-down and 40 percent bottom-up and agreed jointly with the team and at individual level, you create a very binding, shared system. That is why it is important that this objective system is transparent to everyone. That means: They know their colleagues' objectives. They also pay into a shared team objective. If everyone only pursues individual objectives that are not connected to each other, it is questionable whether this is the right way and whether it can take the undertaking forward. The strength to implement the strategy successfully lies in your team. For example, you need resources from the IT team to move forward with the digitalization process. You can only do so much in your own department if the support from the IT team is not foreseen in the objective. Then problems arise in resource allocation. OKRs can also facilitate resource deployment because you do not get caught up in the minutia of the measures anymore, but instead you capture the value contribution of the individual measures and examine their purpose and contribution to the strategy.
+
+---
+
+
+OBJECTIVE 1: Grow into the leading international provider of XYZ.
+KEY RESULT 1: We will increase our revenue outside Germany by EUR 80 million.
+
+KEY RESULT 2: We will gain 500 new B2B customers for our basic product.
+KEY RESULT 3: Time from development investment to finished product reduced by 2 years on average.
+
+OBJECTIVE 2: Accelerate our customers' sustainable transformation.
+KEY RESULT 1: We will reduce the carbon footprint of our products by at least 10 percent.
+
+KEY RESULT 2: 50 percent of our employees are trained in the new ESG taxonomy.
+
+KEY RESULT 3: 40 percent reduction in the fuel consumption of our vehicle fleet.
+
+OBJECTIVE 3: Create an amazing place to work.
+KEY RESULT 1: Cut voluntary employee resignations to 3 percent.
+KEY RESULT 2: Increase employee satisfaction to 50 eNPS.
+KEY RESULT 3: Increase new applicant numbers to 200.
+
+---
+
+
+# OBJECTIVES \& KEY RESULTS 
+
+It is time to set your objectives to make your strategy measurable in its implementation and results. Don't shy away from it. Without this steering element in the target vision, everything else is building castles in the air.
+
+## KEY QUESTIONS:
+
+1. Which objectives do we want to pursue in the strategy time frame?
+2. What will make the biggest difference if we do it differently tomorrow?
+3. What are our top priorities?
+4. What is the lever of our success? And how is it measured?
+
+## INSTRUCTIONS
+
+1. Every workshop participant writes down their personal top priorities individually on cards. Share the collected priorities in the group.
+2. Cluster these and vote on which topics (maximum of 5!) you want to formulate objectives for.
+3. Formulate three to five ambitious qualitative objectives with your team.
+4. Formulate two to five measurable key results for each objective a. Participant number lower than 10: in the entire group b. Participant number from 10: in breakout groups
+5. Transfer your final objectives and key results into the visible page in the StrategyFrame ${ }^{\circledR}$.
+6. Tracking, meeting routines and cycles for sustaining momentum will be defined at a later time as part of the entire strategy workflow.
+
+## CAUTION
+
+- Do not confuse qualitative objectives with measurable key results!
+- Set the bar high, higher, a little higher still! If you can achieve your objectives easily, you may miss the unique opportunity to really take your company to the next level.
+- Do not confuse key results with specific implementation measures.
+- Every key result must be measurable and trackable. If it is not measurable, it is not a key result!
+
+---
+
+
+# COLLECT 
+
+## CUSTOMER SEGMENT
+
+## OBJECTIVES
+
+1. 2. 3. 4. 5 .
+
+## KEY RESULTS
+
+---
+
+
+# OBJECTIVES \& KEY RESULTS
+
+---
+
+
+# FORMULATE OBJECTIVES \& KEY RESULTS 
+
+## TIP
+
+Objectives:
+Dos:
+
+- 3 to 5 objectives
+- Qualitative description
+- Objective pays into an impact statement
+- Objective is challenging and motivating
+- Formulate a complete sentence
+
+Don'ts:
+
+- Vague formulations
+- Evergreens
+- Indicators (increase, minimize, etc.)
+- "And" concatenations
+- Non-achieved objectives from the past
+
+Key results:
+Dos:
+
+- 2 to 4 key results per objective
+- Objective's success drivers
+- Quantitative metrics
+- Independent from each other
+- Actively influenceable
+
+Don'ts
+
+- Milestones with chronological sequence
+- Binary key results
+- Key figure from the past
+- "And" concatenations
+- To-do lists
+
+---
+
+
+# PLAN YOUR NEXT STEPS 
+
+"There is always a next game!"
+Sepp Herberger, former iconic head coach of the German national soccer team (World Champion 1954)
+After you have filled the first two pillars of the StrategyFrame ${ }^{\circledR}$ with your team, you will have almost reached the end of Strategy Workshop I. Maybe you are not yet 100 percent satisfied with each and every formulation. But at least the workshop should have inspired you and your team for the next steps. However, when you return to day-to-day company business, be prepared for questions or comments from your organization like: "So, what wonderful surprises have you decided this time then?" "Why weren't more people involved?" "When will we find out what was discussed?" "What will change for us?" "So, how was the mood?" "They were just off on a junket at the company's expense." Don't let yourself be provoked! Of course, you should have one or two responses to hand. How will you speak to your employees about the workshop? And what happens next? You should find concrete answers to these questions before the end of the workshop.
+
+## PUT IT IN A NUTSHELL
+
+The first thing you should do is make the following clear to the workshop participants: What we wrote down together has to be digested now and can still change. Your strategy's new language will immediately create a new reality for everyone in your team. Or as Italian movie director and screenwriter Federico Fellini determined: "A different language is a different vision of life." But this language and the content that was developed are only known to a very small circle up to now. And that should stay like that for the moment.
+
+Take the time to question, test and linguistically refine or maybe even semantically refine the formulations from the StrategyFrame ${ }^{\circledR}$. Ask your central process manager to organize this revision process so that there is no rewriting of what was jointly agreed behind closed doors. Since there is probably no one in the strategy team with the professional skills of a creative copywriter or even of an author, it makes sense to call in someone with these qualities for support with the formulations and the linguistic fine-tuning. As soon as the reformulations have been agreed with the strategy sponsor, you should talk these changes through with the workshop team, comparing each version against the other. Although this procedure is intensive, you will discover that every word and every formulation can trigger emotions. You should therefore handle textual adjustments with circumspection. Take 2 to 4 hours' time for this final process.
+
+---
+
+
+# CREATE A POSITIVE PERCEPTION 
+
+"Perception matters ..." and "information travels faster than light". Everyone in the organization will know first-hand or through the office grapevine: There was a workshop with the management team, and something will have been decided there. How your organization speaks about the strategy process is something you can influence. What is decisive is what those involved in the strategy process as well as the remainder of the organization perceive - and how they perceive it. Create a positive perception through open and honest communication. At this time, you only have to communicate transparently the things that are directly relevant to the respective level in the company. Talk about the workshop and its participants openly in meetings and maybe even in a media format like your internal social media channel using a striking and symbolically powerful photo of the workshop event and its participants. However, you should not make any reference to the content of the situation analysis or the target vision you developed. After all, your strategy is only two-thirds ready. Provide clarity and certainty by explaining the next process steps to all employees. What exactly are the next steps, who will be informed when about what, who will be involved when and how? That sounds banal, but if people know when they can expect what, and if there is fundamental trust in the reliability of your statements, then even those who tend to presume the worst will calm down.
+
+## PRESENT PERSPECTIVES
+
+Communicate to the members of the broader management team when they will learn about the content of Strategy Workshop I and how they will be involved. If you haven't done it yet, now at the latest time you should start planning Strategy Workshop II with a clear key question and sending out invitations: What exactly will we tackle? Of course, the fact that the next management levels will now be involved is also important information for all the other employees of your company. It sends a signal that you are proceeding methodically and proportionately. That generates trust. Ideally, you should also communicate a date for when you want to present the new strategy to the entire workforce and the format you want to use to do it with. If you want to get the organization on board, in our experience it is often enough just to state: "At the end of the month of ... we will present our new strategy to you and demonstrate how you can all contribute to its success." We recommend that you agree on the communication procedure during the workshop. Speak with one voice as a management team and send clear messages.
+
+---
+
+
+# NEXT STEPS 
+
+At the end of Strategy Workshop I, you should answer the key questions about communication as well as about planning the process. That will give your top management team certainty for dealing with the topic in the workforce and clarity about the next steps.
+
+## KEY QUESTIONS:
+
+## ON COMMUNICATION:
+
+1. When and how will you speak with your employees about the workshop?
+2. Will there be official communication about the workshop in existing meeting formats and media channels?
+3. What are the key messages?
+
+## ON THE ROADMAP:
+
+1. When will you vote on the final content from Strategy Workshop I again together as a team?
+2. When will Strategy Workshop II on the action areas take place? Who will attend this workshop?
+3. When and how do you want to present the entire StrategyFrame ${ }^{\circledR}$ to your employees?
+
+## INSTRUCTIONS
+
+1. Answer the key questions with the help of the template on the right.
+2. Plan the next milestones and check these against your entire master plan from the "Plan" process step.
+3. Transfer the milestones.
+
+## TIP
+
+- Do not distribute the StrategyFrame ${ }^{\circledR}$ from Strategy Workshop I to the participants after the workshop.
+- Do not spread the content to broader management teams or the workforce.
+- Explain the future process procedure openly.
+- Let emotionalizing photos from the workshop speak for themselves.
+
+---
+
+
+# CORE MESSAGES 
+
+## PUBLICATION
+
+(internal)
+
+| MEDIUM/MEETING | TARGET GROUP | CONTENT (TEXT IMAGE) | DATE | COMMENT |
+| :-- | :-- | :-- | :-- | :-- |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+## STRATEGY WORKSHOP II (1.5 days)
+
+Which should be involved in the next step
+(depending on management levels and the size of the company)?
+Management level: $\qquad$
+Management level: $\qquad$
+Management level: $\qquad$
+Number of participants: $\qquad$
+Venue: $\qquad$ Date: $\qquad$
+
+## CHECKLIST FOR FORMULATING THE KEY MESSAGES
+
+$\square$Only one language is used (no foreign terms or sentences).
+$\square$ No catchphrases or internal jargon.
+$\square$ Conventional spelling throughout.
+$\square$ Sequence of core messages creates a consistent, logical and understandable story.
+$\square$ The urgent need for change that follows on from the situation analysis and the challenges identified is also palpable emotionally.
+$\square$ The target image has a radiating effect and is motivating.
+
+---
+
+
+# "LIFE BELONGS TO THE LIVING, AND HE WHO LIVES MUST BE PREPARED FOR CHANGE." 
+
+Johann Wolfgang von Goethe, German poet
+
+---
+
+
+# ADAPT 
+
+![img-0.jpeg](img-0.jpeg)
+
+---
+
+
+# WHAT WE ARE TACKLING 
+
+"You must do the thing you think you cannot do."
+Eleanor Roosevelt, former US human rights activist, diplomat, and First Lady
+You and your management team now know where you stand and where you want to take your company. As the next step, you need to gear and adapt your organization to the company's strategic environment you have defined. Adaptation means "adjustment". We understand that to mean the various processes that have a combined effect of making your company form a responsive system for the external forces with which the desired target vision can be realized.
+
+Adaptation implies:
+
+- questioning and adjusting the current "structures and processes",
+- checking if the right "people" with the right skills are on board or if human resources need to be relocated, augmented, or overhauled,
+- reviewing your company's "culture" critically because, as Peter Drucker stated trenchantly: "culture eats strategy for breakfast",
+- making your "data \& IT" future-proof,
+- ensuring that "innovation" is not an unfamiliar concept and your organization does not suffer from "not invented here" syndrome but instead continuously confronts new developments and advances these itself, and, finally,
+- having the right "partners" at your side for key topics.
+
+If you want to move your entire organization in the desired direction you have to tweak a lot of buttons simultaneously. You suspect or you know from experience: That is no easy task. Four points are crucial for the successful implementation of your plan:
+
+1. You adapt your entire corporate system. Irrespective of which initiatives, projects or measures you might start: They have to contribute to achieving the objectives you determined. Pursue these with tireless consistency and precisely regulated responsibilities.
+2. You have a clear roadmap with the right dramaturgy to overcome resistance and accelerate change.
+3. You generate a progressive perception of success for your plan with a concise and convincing "storyline" with which you, your fellow executives and selected multipliers communicate the overall strategy picture to the organization through an adequate communication infrastructure.
+
+---
+
+
+# CLOSE GAPS

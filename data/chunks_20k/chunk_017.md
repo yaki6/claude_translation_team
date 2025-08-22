@@ -1,0 +1,237 @@
+Hone an understanding for how the strategy hangs together in dialogs with the different teams. Write down where the company stands today. Derive ambitious objectives and key results from the next target level up in each case. Synchronize these with the teams from which you need support to achieve the set objectives. Define specific measures with responsibilities and deadlines for the next quarter.
+
+If possible, use existing and therefore familiar meeting formats for the entire cascade. Extend these timewise if necessary. Communicate the dates and content in good time. Strategy has to penetrate into employees' daily routines and become embedded in their thoughts and actions. That is the most important task for you and your management team. It cannot be delegated down. Now your leadership qualities are called for. Be visible, and always be open to your employees' reservations and problems. They will initially be preoccupied with themselves and wondering what the strategy means for them personally. Allay their psychological insecurity. Communicate the strategy content with clarity and conviction and with direct relevance for the dialog group in question. Specify how and by when you will collect employee feedback and make it transparent.
+
+To achieve comprehensive implementation in a reasonable time frame, ensure your executives are "on track", will not delay the dialog dates in the prescribed time frame or not report feedback or results on time out of self-interest.
+
+The suggested objectives developed in the strategic dialog will then be entered into an analog or digital document and made available to everyone. If one team's suggestions depend on the resources of other teams, they must be aligned with each other to ensure horizontal integration. The key results per level need not be perfectly quantified or qualified. However, the better they are aligned with each other, the better you can ensure that your company can achieve its set objectives. Those responsible for the strategy process will provide consistency and synchronization across all levels in a final vertical alignment process. The result will be a consistent package of objectives and key results for the next quarter. It will dictate the direction for everyone and thus form the core of the entire process. The package will be rounded off with the measures and responsibilities that have been defined.
+
+---
+
+
+# MEASURING PROGRESS AND ESTABLISHING A ROUTINE 
+
+Transparency across all levels and between all teams is an essential key to success. Discipline and consistency in day-to-day work poses a major challenge. Since the process is modelled on an OKR system, there is a risk of degenerating into a real tracking and meeting frenzy. However, all the companies we observed in OKR processes demonstrated one thing: An excessively rigid approach does not fire enthusiasm, but instead generates a feeling of bureaucracy. Additionally, many employees find it difficult to associate their day-to-day tasks with the objectives. Because the question is legitimate: If I do something, isn't it supposed to pay into the strategy - but what has my answering administrative emails got to do with it? A lot! If you are unable to carry out important measures effectively because of poor workplace organization, this impacts on the achievability of your objectives and key results.
+
+What frequency should you use for measuring progress? OKR rules talk about "weekly" and dealing with them in various meeting formats. However, we would tend to advise you to adopt a monthly rhythm to give your teams sufficient time to act. Then the fine-tuning should follow once every quarter and we will delve into this more specifically in the "Adjust" process step.
+
+---
+
+
+# "IDEAS DON'T MAKE YOU RICH. THE CORRECT EXECUTION OF IDEAS DOES." 
+
+Felix Dennis, British writer and publisher
+
+---
+
+
+# CASCADE 
+
+This section contains instructions and tips for conducting the entire cascading process in your role of strategy process manager as well as a fillable template for the individual strategic team dialog.
+
+## KEY QUESTIONS FOR THE STRATEGIC DIALOG:
+
+1. Where do we want to be with our company in 20XX? What have we already achieved, and what still needs to be done?
+2. What do our customers and colleagues expect from us?
+3. What specific challenges is our team facing?
+4. What contribution can we make as a team?
+5. What do we have to do better or differently? What exactly do we plan to do?
+
+## INSTRUCTIONS
+
+## Strategy process manager
+
+1. Define the cascade: Detail the cascade through your company in an Excel table with responsibilities, participants per deadline and execution date.
+2. Select a central platform: Set up a central platform for communication and for collecting the objectives and key results, potential key measures as well as the subsequent progress tracking. Establish these before you begin implementation.
+3. Initiate the strategy cascade: Kick off with team dialog at the top corporate level
+3.1. Derive the strategic objectives and key results for the current year.
+3.2. Derive the quarterly objectives and key results.
+3.3. Start the cascade by assigning management level 1.
+
+## Moderation executive
+
+4. Prepare team dialog: Get ready for the team dialog.
+5. Conduct team dialog: Carry out the team dialog.
+6. Follow-up team dialog: Report the results for the next quarter through the agreed channel or on the specified platform.
+7. Synchronize results: Ensure a horizontal and vertical alignment.
+8. Set a routine: Agree on the monthly reporting routine and set the dates for all the quarterly meetings in the calendar.
+
+## Strategy process manager
+
+9. Manage the cascade implementation: Maintain the overview of the entire process and solve problems and delays.
+
+## MATERIALS FOR THE TEAM DIALOG:
+
+- StrategyFrame ${ }^{\circledR}$ as a printout or digital
+- Flipchart
+- Metaplan board
+- Objectives and key results of the higher-level team in the cascade for the next quarter
+- Team dialog objectives \& action area map (see next page - please copy or print for 3 to 5 objectives)
+
+
+## KEY DATA STRATEGIC TEAM DIALOG
+
+## Team
+
+## Moderator
+
+## Participants
+
+$\qquad$
+$\qquad$
+$\qquad$
+$\qquad$
+$\qquad$
+$\qquad$
+$\qquad$
+
+## ROUTINE
+
+Monthly on: $\qquad$
+$\qquad$
+Quarterly on: $\qquad$
+$\qquad$
+
+---
+
+
+| TIME | MODULE | FORMAT | EQUIPMENT | RECOMMENDATION |
+| :--: | :--: | :--: | :--: | :--: |
+| __: | Welcome and check-in |  |  | About 10 mins. |
+| __: | Where do we want to get to by 20XX? | Collect the statements from the team members | - Flipchart <br> - StrategyFrame ${ }^{\circledR}$ | About 20 mins. |
+| __: | What do our customers and colleagues expect from us? | Present the target vision from the StrategyFrame ${ }^{\circledR}$ again | - StrategyFrame ${ }^{\circledR}$ <br> - Metaplan board | About 20 mins. |
+| __: | What contribution will we make to the strategy in the next quarter? (1/2) | Collect specific challenges across the 6 fields in the situation analysis with team relevance | - Objectives and key results upper level | About 40 mins. |
+| __: | Coffee break |  |  | About 15 mins. |
+| __: | What contribution will we make to the strategy in the next quarter? (2/2) | Derive 2 to 4 key results max. from your 3 to 5 objectives | - Team dialog objective and action area map | About 45 mins. |
+| __: | What exactly do we plan to do? | Derive measures with timing and responsibilities across the action areas and key results | - Team dialog objective and action area map <br> - Flipchart | About 45 mins. |
+| __: | End |  |  |  |
+
+# Team: 
+
+Quarter: $\qquad$
+Team quarterly objective derived from key results:
+
+## Key results:
+
+## Action areas:
+
+---
+
+
+# "IT IS NOT THE STRONGEST OF THE SPECIES THAT SURVIVE, NOR THE MOST INTELLIGENT, BUT THE ONE MOST RESPONSIVE TO CHANGE." 
+
+Charles R. Darwin, British naturalist
+
+---
+
+
+# TRANSFORM 
+
+![img-0.jpeg](img-0.jpeg)
+
+---
+
+
+# ACCELERATE CHANGE WITH A DUAL OPERATING SYSTEM 
+
+"The central issue is never strategy, structure, culture, or systems. The core of the matter is always about changing the behavior of people."
+John P. Kotter, Professor of Leadership, Harvard Business School
+The world we live, work and do business in today is often described as VUCA. Everything appears volatile, uncertain, complex, and ambiguous. We can no longer rely on our familiar toolset and the success factors of the past. The tried-and-trusted methods for implementing strategies that worked up to now are increasingly failing corporate executives amid stiff competition and sustained geopolitically driven deglobalization. It is becoming increasingly difficult to keep pace with the type and speed of change if you stay in reactive mode and let yourself be carried along by VUCA forces.
+
+Traditional management processes are geared toward pre-defined decision hierarchies and set up to fulfil the daily requirements of a "normal" company business with operating routines effectively and efficiently. These processes seldom discover emerging dangers in time or recognize their potential dimension. They are not made for supplying strategic answers to unexpected threats, system changes or new opportunities, and molding them rapidly into strategic initiatives. The analyses of John Kotter (2012), the "supreme master" of change management, confirms that "a[ny] company that has made it past the start-up stage is optimized for efficiency rather than for strategic agility - the ability to capitalize on opportunities and dodge threats with speed and assurance."
+
+That is a good enough reason for us to reshape the classic strategy cascade into an "agile" cascade with greater flexibility and maneuverability. We are therefore adopting the logic of quarterly achievement of objectives and key results from the OKR methodology to activate the entire organization in the existing hierarchy and order. But the work of the strategist does not end at this point with controlling the hierarchy cascade until the objective is achieved. Instead, the fun of strategy-making starts now!
+
+## BUILD AN INTERNAL STRATEGY NETWORK
+
+The traditional implementation cascade is geared to the existing hierarchy and provides its contribution to achieving the set objectives across different hierarchical levels. But the transformation does not just move synchronously across all teams in the cascade at all, but at different speeds and intensities and in parallel asynchronous strands. You might even reform your organizational structure as one of the measures in the "Structures \& Processes" action
+
+---
+
+
+area. A reorganization like this generally triggers psychological uncertainty among those affected, which leads to reticence or even resistance and can reduce their contribution to achieving the objectives.
+
+For that reason, Kotter (2014) recommends developing a "dual operating system". This means an internal community of decision-makers, multipliers, and supporters ("influencers") from different hierarchical levels and corporate areas who are strategically networked across the entire company. You might have already involved people like this in Strategy Workshop II. If not, it is high time to do so now. Make yourself more independent of your existing management cascade and the notorious "clay layer" of middle management. This will give you the necessary "reliability, efficiency, speed, and agility" to survive among the competition.
+![img-0.jpeg](img-0.jpeg)
+
+---
+
+
+# ACCELERATE THE CHANGE 
+
+Kotter (1996) introduced an eight-step model in his bestseller, Leading Change, that companies worldwide have adopted as the standard methodology for implementing change. The eight steps are:
+
+1. Create a sense of urgency.
+2. Form a leading coalition.
+3. Develop a vision for change.
+4. Communicate the vision, so that it will be supported by everyone.
+5. Empowerment to broad-based actions.
+6. Achieve short-term successes.
+7. Never ease up.
+8. Integrate the changes into corporate culture.
+
+The massive, rapid, and disruptive change in technology, business and society is making hard-earned competitive advantages short-lived for companies. Yesterday's benefits (for example, economies of scale through size) can become today's disadvantages, as traditional commercial banks with "legacy" IT systems and bloated administrations are bitterly experiencing amid competition with lean and agile fintechs. The time pressure to effect change is high. Transformation processes can no longer be implemented at a calm, unhurried pace, as the current example of digitalization and digital transformation shows. No company can evade it. On the contrary. Now the order of the day is to accelerate the entire transformation. To take these heavily changed and still changing conditions into account, Kotter (2014) transforms his eight steps into eight "accelerators".
+
+---
+
+
+![img-0.jpeg](img-0.jpeg)
+
+1. Instead of working through the eight steps sequentially and confined to themselves, the accelerators are simultaneously and continuously in action.
+2. In Kotter's original model, the progress through the eight steps is propelled by a small core group. In the accelerator model, a strategic network alongside the management cascade ensures the involvement of as many people as possible from the entire organization.
+3. The eight-step model is designed to be able to function within a traditional hierarchy, whereas the accelerator model relies on the flexibility and agility of a parallel, non-hierarchical network.
+
+---
+
+
+You can use the accelerator model for two key tasks:
+(1) transforming your organization into a dual operating system and
+(2) developing your organization at the company or group level across the six action areas of the StrategyFrame ${ }^{\circledR}$.
+
+In Strategy Workshop II you already decided which adaptions were necessary (for example, reorganizing the sales department, introducing a process-oriented organization, or changing the IT system and application landscape). Now, concrete measures should follow in accelerator mode. Who should be responsible for these concrete measures? On the one hand, it is the task and responsibility of the individual teams to align and integrate these measures with their measures for achieving the quarterly objective and key results. On the other hand, central management and control are required, as these types of measure have lighthouse character and radiate onto and pay into the entire transformation project.
+
+Kotter highlights five critical success factors for achieving the acceleration:
+
+1. Many change agents, not just the usual suspects, meaning the management executives.
+2. A want-to and a get-to - not just a have-to - mindset.
+3. Head and heart, not just head.
+4. Much more leadership, not just more management.
+5. Dual operating system comprising hierarchy and network.
+
+With the help of the "accelerators" and the success factors, you can derive your concrete measures as well as the dramaturgy for the transformation, record them in the StrategyFrame ${ }^{\circledR}$ by updating the roadmap, and thus continuously push the transformation. We have simplified the accelerator package slightly to enable you to adapt the content and processes in your workflow.
+
+# STRATEGY ACCELERATORS 
+
+## 1. CONSTANTLY GENERATE A SENSE OF URGENCY AS TO YOUR TARGET VISION AND PARTICULARLY TO YOUR IMPACT STATEMENT.
+
+It is critically important to convey the right appreciation of the transformation to your team. Urgency and desired impact must be expressed in the demeanor and attitude of corporate management and must be perceptible to every member of your organization every day. Naturally, there will have to be strategic
+
+---
+
+
+adjustments in the course of the transformation. After all, the world will not stand still while you are transforming your company. However, you must never lose sight of the target vision when you make these adjustments.
+
+The organization won't get moving without a suitable perspective. Hence you have to generate momentum. You have developed your strategy story from the challenges and impact statements described in your StrategyFrame ${ }^{\circledR}$. It is the foundation for your transformation story which you will now announce in all media and at all public events. Bring your target vision and impact statements to life. Illustrate them from various perspectives. Be "loud". That's not your style? Make it your style. That is the only way you will be heard.
+
+# STORIES FROM THE FIELD 
+
+"Being loud" with its claim "Lead the Category" made innovative full-service electronics group KATEK successful. Born of the idea of consolidating the heavily fragmented market of small and medium-sized manufacturers of electronic assemblies with a "buy-and-build" story, this young company bravely set out to make European companies in all sectors less dependent on fragile global supply chains again as demanders of electronic components. After going public in 2021, all signs are pointing to market leadership: "Our branding, and particularly the claim, made the decisive difference for us. This enabled us to gain extraordinary talent and new companies for our group who wanted to be part of our success story," CEO Rainer Koppitz reported in our podcast.
+
+## 2. BUILD A GUIDING COALITION AND MAINTAIN IT.
+
+At the heart of the strategic network is a core group of volunteers from the entire organization, Kotter's "guiding coalition". Everyone can apply to be a member. There are no hierarchies. All members are on an equal footing and have access to the same information. This enables thought and action silos to be broken open and nests of resistance eliminated beyond all hierarchies.
+
+In our experience, companies shy away from this type of procedure, especially in precarious situations or because the prevailing opinion is that too many cooks spoil the strategy broth. Then it is common practice to exclude the unruly spirits and eternal whiners. However, good strategy work integrates notorious critics sensibly and profitably too. Think about it and deliberate on who in your organization will fit into the transformation management team. To synchronize
+
+---
+
+
+with the hierarchy cascade, we recommend that you expand the core team of your strategic network to include the management executives responsible for the five major objectives in the StrategyFrame ${ }^{\circledR}$. Naturally, the top management level should be represented to the same extent as the manager responsible for the strategy process as coordinator.
+
+# 3. GIVE THE NETWORK THE CAPACITY TO ELIMINATE ANY OBSTACLES THAT EMERGE OR SOLVE PROBLEMS. 
+
+## STORIES FROM THE FIELD:
+
+A large mechanical engineering company has an internal non-hierarchical strategic network that is meant to provide cross-divisional and crossfunctional help with problem-solving and similar tasks. Network members get time credits when they are working as network members. Example: A product manager received a customer query with a totally new product requirement. Off the bat, the manager had neither an idea for a solution nor enough time to think about it appropriately, as the customer needed an answer as quickly as possible ("We have a problem. Can you solve it?"). So, the product manager asked the internal network for help. A network member with a free window of time got in touch: "I'll put together a team to solve the problem." The volunteer drafted a presentation and shared it in the network. Several colleagues with suitable professional and pertinent skills and a free window of time got in touch. The sender of the presentation took on the task of team leader to organize and coordinate the group. After a week, the group had found a pragmatic, software-based solution to the customer requirement. The customer was highly pleased with the speed of the company and the cost-effective solution.
+
+How does that work in your organization? Would you be prepared to free up 20 percent of your resource capacity for network members?

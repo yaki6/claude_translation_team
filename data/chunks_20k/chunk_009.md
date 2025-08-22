@@ -1,0 +1,238 @@
+1. Identify the decisive influencing factors from the five areas and describe these briefly.
+2. Derive the tangible consequences in various hierarchies (time, intensity) of these influencing factors for your company.
+3. Draw your company's fragility curve along the graded tangible consequences:
+
+Fragile $=$ breakable
+Robust/resilient = temporarily resistant or resistant at low intensity
+Antifragile = learning, self-reinforcing
+4. You decide which fragility you wish to remove, and how.
+
+## TIP
+
+Instead of simply googling through the macroeconomic data jungle, you can draw on the offerings of various think tanks and research platforms like the Economist Intelligence Unit (EIU), analyses conducted by the major banks (for example, DB Research) or the McKinsey Global Institute.
+
+---
+
+
+# SOURCES
+
+## ANALYSIS
+
+|   | Fragile | Robust/Resilient | Antifragile  |
+| --- | --- | --- | --- |
+|  **INFLUENCING FACTOR** | **EXPRESSION OF THE SPECIFIC CONSEQUENCES** |  |   |
+|  **POLITICAL** |  |  |   |
+|  **ECONOMIC** |  |  |   |
+|  **SOCIO-CULTURAL** |  |  |   |
+|  **ECOLOGICAL** |  |  |   |
+|  **LEGAL** |  |  |   |
+
+## QUALITATIVE OBSERVATIONS
+
+---
+
+
+# BROADER ENVIRONMENT
+
+---
+
+
+# FORMULATE INSIGHTS 
+
+## EXAMPLES
+
+- The war in Ukraine alongside Covid-19 are leading to immense cost increases in energy, transport and materials as well as to strong worldwide wage inflation, all of which is making our current customer orders enormously unprofitable.
+- Customers, banks, and the legislature are demanding increasingly high sustainability standards (ESG), which in turn are leading to tremendous resource expenditure for us and potentially withdrawing the "license to operate" from the way we do our business today.
+
+---
+
+
+# HOLD UP A MIRROR 
+
+"Many people have a sharp eye for the weaknesses of others and impaired vision for their own."
+
+Ernst Ferstl, Austrian teacher and writer
+
+The greatest personal leadership skill is the ability to constantly question yourself and your company. All too often, empirical knowledge and past successes make executives blind in one area or another. People's own egos get in their way. It is natural that we don't all like to talk about our own faults. Furthermore, power and leadership positions are isolating. Consequently, there is often a lack of open and honest feedback. While frequently requested, it is seldom demanded or accepted. So, if you don't have a Till Eulenspiegel (a medieval chapbook protagonist playing jokes on his contemporaries to expose their vices) in your ranks already, it is high time to let someone hold up a mirror to you.
+
+After you have analyzed your company's broader environment, it is now crunch time. Your own business is going to be put under the microscope unsparingly because the potential scope for action for your strategy will only emerge in the combination of environment and your own capabilities. But where should you start? Usually, some things are in a sorry state, but not everything is bad either.
+
+When Till Eulenspiegel played the fool with his roguish tricks he cunningly pretended to be stupid and took every statement of his fellow human beings literally. In doing so, he held up a mirror to his fellow human beings and thus demonstrated their weaknesses and transgressions. Using laughter and schadenfreude, he exposed them publicly to sharp but unspoken criticism and thus revealed the deficits of his time. You do not have to show up all your insights quite so unsparingly, but the analysis within the management team does require brutal honesty.
+
+There are two key questions that will help uncover the deficits and inefficiencies: What are you really earning your money with today? If you had three wishes, what would you change immediately tomorrow? Anything goes! Does that almost sound like a practical joke to you already? Then tackle the questions immediately and answer them honestly, yourself or alternatively with your team, or even with outsiders.
+
+However, which products and services the company ultimately earns the most with frequently remains a mystery for longer than you might think. Yes, your own organization, your controlling and reporting system are often too complex. But believe in yourself and your team. You will find them - those products that
+
+---
+
+
+are produced after all for just that one customer and then put in the warehouse because it doesn't seem to work without doing this, and you can always recoup the money somewhere else. That is the service to the product that consumes 80 percent of total work time and is not remunerated. Yes, we all know the things that we don't want to deal with.
+
+Or there is the universally beloved silo mentality held by area heads and entire business or functional areas who keep their cards close to their chest. At the celebration of life for NBA superstar Kobe Bryant, who died in 2020, basketball legend Shaquille O'Neal recounted an argument he had with the hard-headed superstar. Kobe had hardly made any passes to his fellow players in one game, so Shaq called him out on it on behalf of the team: "Kobe, there is no I in team!" and Kobe responded: "No, but there is a M-E in that mother*****."
+
+You may well know superstars like this from among your own ranks, but good cooperation in a team is probably an even greater success factor in a company than on the playing field.
+
+---
+
+
+# OWN REALITIES 
+
+Aside from analyzing your critical key performance figures and sources of profitability, you also have to look and listen closely. Naturally, this is something that management executives find difficult to do in their own shoes. That is why you should consider - as recommended already in the chapter on qualitative exploratory interviews - whether you should call in a fresh set of eyes from outside at this point. Just a few meetings with key internal people can be the magic ingredient that makes the crucial difference. It is important for all participants to have a familiar safe space - no truths expressed by colleagues or employees can be retrospectively misconstrued or negatively attributed to them. Here you will find a list of key questions that will help you examine your company thoroughly. And look the truth in the eye.
+
+## KEY QUESTIONS:
+
+1. What are the five-year trends in our critical key performance figures and what conclusions can we draw from them?
+2. Where have we been making money, and where not?
+3. How do we address the offerings with which we make no money?
+(Questions 2 to 3 require a breakdown of profit by customer, product group, and geographic region).
+4. What are our major strengths that we could turn into competitive advantage?
+5. What are our weaknesses that are getting in the way of better performance?
+6. What would we change immediately if we had three wishes?
+
+## ANALYSIS I: PROFIT CONCENTRATION MAP
+
+In the right-hand column, list the most profitable products or product categories in descending order, stating the share they contribute to your profit. Draw a line when you have identified 80 percent of your total profit. Now list the products or product categories that make up the remaining 20 percent of your profit below this line. If this list is long, you should cut it down so that you can concentrate on your profit earners.
+
+## TIP
+
+You cannot work with average figures. Average figures do not say anything - on the contrary, they conceal the truth! The way to improve your performance involves improving or removing the poorly performing parts of a company. Then the average goes up. That means that it is essential to break down your key performance figures - so that you can understand where you are making good profits and where you aren't.
+
+## ANALYSIS II: STRENGTHS AND WEAKNESSES
+
+## Option A: Exploratory interviews
+
+List the insights you have clustered from the interviews in the strengths/ weaknesses matrix. Illustrate some of the insights with pithy anonymous quotes from your colleagues.
+
+## Option B: Brainwriting
+
+If you do not have any internal capacity for an exploratory survey, you can conduct what is known as a brainwriting session with your management team. To do this, every participant is given a blank sheet of paper and must use it to list the perceived strengths and weaknesses. After a few minutes, everyone passes their sheet of paper to their neighbor. Each recipient may now only add to the strengths or weaknesses of their predecessor, but not delete any. Repeat this process until the sheets get back to the people they started with. Now present the insights to the entire group and conduct an evaluation on the stated strengths and weaknesses. You can then enter the results into the table provided.
+
+---
+
+
+# QUANTITATIVE ANALYSIS 
+
+PROFIT
+PRODUCTS/PRODUCT CATEGORIES
+
+## 20\%
+
+STRENGTHS
+WEAKNESSES
+
+---
+
+
+# OWN REALITIES
+
+---
+
+
+# FORMULATE INSIGHTS 
+
+## INSTRUCTIONS
+
+It is important to formulate the key insights into sentences after conducting an intensive discussion among the management team. During this process, try to avoid cliches and generalizations. Turn the bullet point insights into a coherent story about how you and your management team perceive the reality of the company. Of course, there won't just be positive things shining up, but also the problem areas you will have to deal with. Try not to prettify these problem areas or make them too convoluted.
+
+## EXAMPLES
+
+- We have the biggest product range in the market - a veritable hawker's tray - this is increasing our complexity in production and logistics and isn't providing any real customer benefit any more today.
+- Certain countries cultivate the market better than others - but we have no global data structure or transparency in reporting in this area.
+- A dramatic investment backlog has put an immense delay on our development of our digital capabilities.
+- The strong and continuous decline in profits in business unit XYZ is forcing us to take rigorous action.
+
+---
+
+
+# "ANYONE WHO HAS VISIONS SHOULD GO TO A DOCTOR." 
+
+Helmut Schmidt, former German Chancellor
+
+---
+
+
+# FOCUS 
+
+![img-0.jpeg](img-0.jpeg)
+
+---
+
+
+# NO HALF MEASURES 
+
+"A person who chases two rabbits catches neither."
+Confucius
+All the data for each of the modules in the situation analysis have now been gathered, analyzed and visualized to the necessary extent. You will have gained some initial insights already. Here comes the next workflow step: Focus.
+
+You now have to reach deeper insights and make decisions that will give your company a clear focus. With all the entailing consequences, with no ifs or buts. Michael Porter (1996), the master of business strategy, sums up the necessary:
+"The essence of strategy is choosing what not to do."
+Deciding what we do not want to do is something we humans often find very difficult, because we do not like to restrict ourselves in advance and because we prefer to leave ourselves more rather than less room to maneuver for reasons of risk aversion. But with limited resources, there is no way around defining the "don'ts" if we want to do those things that make us "unique" and in which we want to excel. So it is, neither "this one or that one" nor "this one and that one", but instead "this one, but not that one". Because that one, for example, is not part of our DNA or it contradicts our self-perception. We cannot be a "jack-of-all-trades". We must choose.
+
+The Netflix documentary series Jiro dreams of sushi brings this home to us very convincingly. The documentary profiles 85-year-old sushi chef Jiro Ono. At some stage, he had decided to run a sushi restaurant with only 10 seats in a Tokyo subway station. We are witnesses to how he created something really big on a very small scale through self-sacrificing dedication and concentration on attaining mastery in his highly specialized area: US\$ 300 per plate, 3 Michelin stars and a legend among gourmets. As Japanese author Tanizaki Jun'ichirō said: "[it is] in the mastery ... the patina that develops through long years of tireless polishing." Maybe the image of the patina is an inspiration or even a good leitmotiv to attain mastery in focusing your company.
+
+## FROM SITUATION ANALYSIS TO TARGET VISION
+
+While you have involved individual colleagues intermittently in planning, gathering and analyzing so far, your entire management team, expanded to include selected initiators if necessary, is now invited to participate in your first group strategy workshop.
+
+---
+
+
+The first "to do" is to answer the question, "What is happening in our company, where do we stand today?" It is a fundamental management task to create from the results of a situation analysis a shared understanding among the management team of a company's status quo and from that to develop the target vision for the future strategy. Take your time to discuss the results of the situation analysis in detail as a team. Encourage the participants to question even obvious relationships and look for outliers and anomalies. Questions help. Always. Questions like those that Willie Pietersen, Professor of the Practice of Management at Columbia School of Business and ex-CEO of Lever Foods and Tropicana, likes to ask his listeners in his warm-up:
+
+- Do your products or services have a "winning proposition", a value offering to the customers that creates more value than the offerings of the competition? What do you do better than or different from your rivals?
+- Where are you losing against them? Where is your company worse than the competition?
+- Which of your products or services are profitable?
+- Are your winning propositions also paying propositions?
+- Where do you achieve higher profits than the competition?
+
+Discussing the answers to these and further-reaching questions will crystallize the overall answer to "what's going on here", meaning, the factual and true situation. Specifically, that means: What are the causes of the results, what is the background? If you consider your portfolio of offerings, for example: Is it as broad as it is because you want to fulfil every customer wish? Or are you serving customer segments that have developed randomly without careful scrutiny? Get clarity and consensus on the challenges and opportunities in your current arena of playing fields, on potential new playing fiends, on potential courses of action and risks involved as well as on the likely time frames.
+
+Next you have to determine your focus - which playing fields should the company operate on in the future - and define the priorities for the allocation of company resources with the aid of objectives and key results. The results of this process show which strategic decisions (e.g., investments) you need to make, and which operational or tactical measures have to be taken to accomplish your focus. No matter what meaningful strategy you preliminarily derive: Ensure that it is consistent with your idea of the impact that your company wishes to generate in the world. This global assessment will then yield your target vision: "Where do we want to go?"
+
+---
+
+
+# STRATEGY WORKSHOP I 
+
+"Our strategy workshop that time in Dusseldorf with the StrategyFrame ${ }^{\circledR}$ and Mr Underwood and Professor Weigand was a real turning point for our company." Hans-Jürgen von Glasenapp, Managing Director, BILSTER BERG Drive Resort
+
+Make the first strategy workshop in the StrategyFrame ${ }^{\circledR}$ workflow something special for you and your team. Something that the participants will still want to remember positively even in three years' time. Create the best possible conditions for an intense confrontation with the realities in your environment and of your company. Engage in intensive discussions with your team about your company's starting position and use them to develop new ideas for its future direction. There will certainly be a few differences of opinion. That is part of the process, as long as no personal animosities come to the fore. With this workshop, you are also laying the foundation for a new strategy routine.
+
+When you prepare your workshop, you should clarify the following points:
+
+```
+#1: Objective
+#2: Duration and dramaturgy
+#3: Participants
+#4: Meeting venue
+#5: Moderation
+```
+
+
+## \#1: WHAT IS THE OBJECTIVE OF THE STRATEGY WORKSHOP?
+
+At the end of the workshop, you and your team should have developed a shared target vision for the future based on the situation analysis. The objective is not to elaborate the entire strategy in detail. On the contrary, if you want to achieve too much at once, you will be disappointed. Generally, not all participants have the same level of knowledge from the outset because they may have only been involved in individual elements of the situation analysis. You must therefore bring the participants "up to speed", to:
+
+- enable a joint assessment of the initial situation,
+- understand the challenges and opportunities and
+- start agreeing on strategic options.
+
+---
+
+
+One day will not be enough. Time and again, we have experienced bosses who did not want to "sacrifice" more than one working day. Time is a limited resource, but do not make false economies. Generally, more than a day has passed before all participants have arrived mentally and intellectually and an accepted assessment of the initial situation is reached.
+
+Ideally, you should plan for 2.5 days for the first workshop after the situation analysis. The half day is reserved for the afternoon after arrival at the meeting venue. You can use it to introduce the agenda of the workshop and present the core results of the situation analysis. A dinner with all participants closes the day. Then you can get started straight away the next morning without having to wait for colleagues who are still stuck in traffic. We estimate you will need the next day and a half to reach a shared understanding of the initial situation, evaluate risks and opportunities, and develop potential solutions. The remaining half-day should be used for drafting a target vision and for planning the next steps.
+
+Are any further team activities required above and beyond the assignment, or inspiring guest speakers who have scaled the highest mountains or executed an Iron Man challenge? Here, too, less is more. Your objective is clear. The workshop should deliver concrete results for the process going forward. That is why we do not recommend any further activities beyond those mentioned here. We also advise against guest speakers who do not contribute anything that is directly relevant to your strategy development or will not play a significant role in your strategy process.
+
+# \#3: WHO SHOULD PARTICIPATE IN THE STRATEGY WORKSHOP? 
+
+Needless to say, the senior management team should take part in the workshop because these executives will be responsible for implementing the developed strategy in all areas of the company. Therefore, early involvement is vital. Of course, you can expand the circle to include other people to gain additional perspectives and inspiration.
+
+But remember: From 10 to 12 people upwards, the complexity of communication and coordination increases significantly. You will have to increase your activation efforts to prevent individual participants from sitting back and switching off or even disconnecting. In addition, every participant who does not belong to the management team alters the team dynamics - that can have a positive or a negative effect. In this case, you should consider additional teambuilding measures to ensure acceptance and coherence in the workshop.
+
+---
+
+
+# \#4: WHERE WILL THE STRATEGY WORKSHOP BE HELD?

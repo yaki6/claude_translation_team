@@ -1,0 +1,215 @@
+This is truly the most difficult part of the dual journey. What skills and resources does your company need to be relevant and successful in the future? Which unique capabilities and growth potential lie dormant in your company? Essentially, this is about building the bridge from the existing skills and resources, as well as those that must be developed, from your current company to the growth leader of tomorrow. That is the "capabilities link".
+
+Take a step back: Which skills and resources define your current corporate competencies? To what extent are they determined by your brand and the knowledge that has accumulated within your company?
+
+The future is not a linear continuation of the present. That is why you have to be aware that your current core competencies probably won't pay into your growth initiatives for the future.
+
+---
+
+
+# STORIES FROM THE FIELD: 
+
+In the 1990s, IT was regarded by corporate executives, consultants and even management professors as a hygiene factor. If it was not a core competency, then the generally disliked because misunderstood IT could simply be imported cost-effectively from India in a "24/7/365 global delivery model". Amid the favorable conditions of globalization, this perception led to an outsourcing boom and the rise of specialized IT service providers. Then, 20 years on, the realization set in among many companies: Nothing works without IT anymore. Apple, Amazon, Google and Microsoft had realized that at an early stage, and that is how they became technological leaders. Their business models based on IT- and AI-supported platforms make them the most valuable companies in the world. At the latest with the onset of the digital transformation, even the last corporate executives finally recognized that mastering IT constitutes a core competency in the Fourth Industrial Revolution.
+
+Encourage your teams to think about core competencies and growth potential and exchange ideas about them with each other. Ensure that sufficient time, personnel and financial resources are set aside for B and C. Visibly dedicate your personal attention and support to this part of the dual transformation. Anthony et al. (2017) summarize your challenge concisely:
+"Creating a new business from scratch is hard, but executives of incumbents have the dual challenge of creating new businesses while simultaneously staving off never-ending attacks on existing operations, which provide vital cash flow and capabilities to invest in growth."
+
+What now? We have not answered one key question up to now: How do you find these unique skills and resources that generate growth potential and inspire new business models for tomorrow and the day after tomorrow?
+
+## GENERATE IDEAS WITH STRATEGIC INTUITION
+
+"A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be."
+Wayne Gretzky, former Canadian ice hockey player
+
+---
+
+
+How do your new ideas develop? And how do your ideas develop into business models? Are thinking headspace and inspiration enough to create something groundbreaking new for your company?
+
+To Joseph Schumpeter (1911), innovation was primarily creating the new by combining the old in a new way. And the old does not necessarily have to come from within your company. On the contrary:
+"Good artists copy - great artists steal."
+Steve Jobs, former US entrepreneur, founder and CEO of Apple Inc.
+This witticism that Steve Jobs ascribed to artist Pablo Picasso stands for the capability of the Apple co-founder to think outside of their own box, to help themselves to the good and successful things that are already there, but see them in a new way and combine them with their own ideas in such a way that something new emerged. Let us take Apple's iPod and iPhone as examples. The analog precursor to the iPod was the Sony Walkman, the first portable miniature cassette recorder. Steve Jobs "digitalized" the Walkman. In the case of the iPhone, he made the cell phone "smart". In both cases, only a few wheels had to be completely reinvented. Jobs "borrowed" the design of the iPod and iPhone from German industrial designer Dieter Rams and his work for electrical appliance manufacturer Braun, including the T3 transistor radio (1958) or the ET66 pocket calculator (1987).
+
+Ideas come before innovation. When do you get your best ideas? Probably during the night or in the shower, or in a totally unexpected moment. Suddenly it hits you - you have a flash of inspiration. In your mind's eye, things fit together that you had never associated with one another before. Thoughts combine and manifest themselves as an idea.
+
+Brain research has examined how these flashes of inspiration arise. It is a particular form of intuition. There are three types of intuition. Regular intuition can best be understood as our "gut feeling". It arises from experiences, knowledge and projections. Specialist intuition constitutes the quick judgements we make because we perceive something familiar or analog and basically know the consequences. In such decision-making situations, we are "experts" and our brain generates an expert assessment. Just like experienced footballers can deduce where a ball will go from the way and the speed a ball is played. The third type of intuition is more than just a gut or expert feeling. Instead, it gives us an idea for our future action. That is why Duggan (2007) called this type of intuition "strategic intuition".
+
+---
+
+
+Strategic intuition is a clear thought. And it is not quick like expert intuition. It is slow. The flash of inspiration you had yesterday evening could solve a problem that may have occupied your mind for quite some time already. And it does not in familiar situations, like in a football game. Strategic intuition functions in new or different situations, when the gut and expert feelings provide no solutions. That is when we need strategic intuition the most.
+
+Carl von Clausewitz, a Prussian general in the Napoleonic Wars and trailblazer of modern strategy theory, analyzed Napoleon's successes on the battlefield. He discovered that Napoleon had particularly strong strategic intuition. Clausewitz defined strategic intuition as a four-step process. On the first step, you need "historical awareness". Napoleon had carefully studied past battles, learned from them and used the insights for his own battles. Thus, today's strategists should be familiar with what has happened up to now or is already available. Steve Jobs was a fan of the Bauhaus design school and Dieter Rams' work.
+
+But knowledge and familiarity alone are not enough. On the second step, you have to add presence of mind. When Steve Jobs visited Xerox Labs in the early 1970s, he saw a minicomputer in the research lab with a graphic user interface that could be controlled by a device that we call a mouse nowadays. His alert mind combined what he had seen with his own vision: the Apple personal computer. The flash of inspiration, the third step in strategic intuition, ignited and supplied the idea for action. And to get into action, the last step you need in strategic intuition is decisiveness. Steve Jobs had the necessary decisiveness: from Apple I (1976) to today's notebook.
+
+You can use Duggan's (2013) "Insight Matrix", which was developed in collaboration with General Electric, for your idea generation process. It captures problem solutions or their achievement elements from other areas (companies, sectors, markets) or contexts (sport, theater, ...). The aim is to combine the various elements in such a way that new solutions emerge. The following matrix shows the example of Netflix.
+
+---
+
+
+PROBLEM 1
+DVD rental club online orders
+
+PROBLEM 2
+Online Streaming
+
+# SOURCES 
+
+| ELEMENTS | BLOCK <br> BUSTER | FITNESS <br> CLUB | AMAZON | DVDS | OTHERS? | AWS <br> CLOUD | NAPSTER |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| TYPE OF <br> BUSINESS | $\checkmark$ |  | $\checkmark$ |  |  |  |  |
+| PAYMENT <br> SYSTEM |  | $\checkmark$ | $\checkmark$ |  |  |  |  |
+| DELIVERY <br> SYSTEM |  |  | $\checkmark$ |  | $\checkmark$ |  |  |
+| ONLINE SERVER |  |  |  |  |  | $\checkmark$ |  |
+| ON-Demand <br> STREAMING |  |  |  |  |  |  | $\checkmark$ |
+
+## STORIES FROM THE FIELD
+
+Netflix combined the new DVD technology with the digital sales model it adopted from Amazon into a completely new business model. In addition, the company ensured it always had the biggest possible inventory of movies on DVD. The advantages were obvious. With Netflix, customers could select from a huge stock of movies, simply order the desired movies over the internet and have them delivered to their homes. They had no time or travel costs to get to the next video store. Netflix saved on the fixed store and personnel costs of stationary business operations. Later, Netflix immediately adapted new technological developments from the IT area, especially the cloud offerings from Amazon Web Services (AWS), and exited the DVD mail order model to establish a new business model: "video on demand" via "internet streaming". Customers no longer had to wait for the delivery to arrive.
+
+The relationship between Netflix and AWS is an example of collaboration with simultaneous competition, known in business jargon as "co-opetition". AWS earns from every Netflix user's "stream" and at the same time offers a direct competitor product, Amazon Prime. On the one side of the business model, AWS and Netflix are collaborating, while on the other side, the competition for every subscription is fierce.
+
+---
+
+
+# ESTABLISH A STRATEGIC INNOVATION ROUTINE 
+
+Don't leave the detection of new market or business opportunities to chance. Integrate that too into your day-after-tomorrow-focused thought process in your strategy process for tomorrow. Set up a work routine that comprises the following steps:
+
+## 1. IDENTIFY THE PROBLEM
+
+Let us assume you are looking at a focus market. Start by writing down with your team the current understanding of the market conditions and customer benefit. Identify the potential problems or opportunities on the supply and demand side that are related to customer benefit. Who are your current customers? Who could your future customers be? Compile personas of your current and future customers. Personas are models of "typical" customers or users that characterize people in a target group according to their features. Which value propositions would they find appealing? Which offering elements (price, quality and the like) generate the main benefit for your personas? Collect these elements in the insight matrix.
+
+## 2. FIND SUCCESSFUL MODELS
+
+Search for potential solutions or models of solutions in other areas or contexts. Enter these models into your insight matrix. Use the situation analysis in the "Trends" module of the StrategyFrame ${ }^{\circledR}$ as inspiration for your search. Which macrotrends are impacting on your sector and your business model? Which microtrends are relevant for your personas?
+
+## 3. COMBINE THE MODELS INTO NEW SOLUTIONS
+
+Combining the various solution elements from different sources is a creative process: Which elements fit together, which need to be modified or added to achieve a bigger customer benefit profitably? Which elements can be dispensed with?
+
+Create the best possible conditions for strategic intuition. Creativity does not work on demand just because you have a design thinking workshop today. Give your team members time for a homework assignment: to develop promising solutions independently. The list of solution proposals will then be the input for the team workshop where the proposals are presented and discussed individually. Then decide together with your team which proposals should be pursued further. Present this shortened list to an extended circle of management executives and specialist executives.
+
+---
+
+
+Keep an open mind for suggestions or even new ideas. At the end, select the top 3 solutions that should go into the next phase together.
+
+# 4. CREATE NEW VALUE PROPOSITIONS AND DEVELOP NEW BUSINESS MODEL PROTOTYPES 
+
+Elaborate the specific benefit or value propositions to your personas for your top 3 solutions. Starting with these value propositions you can develop prototypes for potential business models with the aid of the familiar "Business Model Canvas".
+
+BUSINESS MODEL CANVAS \& VALUE PROPOSITION adapted according to Osterwalder (2010)
+
+| KEY PARTNERS | KEY ACTIVITIES | VALUE PROPOSITIONS | CUSTOMER RELATIONSHIPS | CUSTOMER SEGMENTS |
+| :--: | :--: | :--: | :--: | :--: |
+| Who are your most <br> important partners for <br> achieving competitive <br> advantages? | What are the most <br> important steps for <br> getting closer to your <br> customers? | How will you make your <br> customers' lives happier? | How often will you <br> contact your customers? | Who are your customers? |
+|  | KEY RESOURCES | PRODUCTS AND SERVICES | CHANNELS | CUSTOMER JOBS |
+|  | Which resources do you <br> need to realize your idea? | PROFIT GENERATORS | How do you want to reach <br> your customers? | PROFITS |
+|  |  | PROBLEM SOLVERS |  | PAIN POINTS |
+| COST STRUCTURE |  |  | REVENUE STREAMS |  |
+| How much are you planning for product development and marketing <br> in a certain time period? |  | - How much are you planning for? <br> - How much do you want to earn in a certain time period? <br> - Compare your costs and income. |  |  |
+
+Alexander Osterwalder, inventor of the Business Model Canvas, summarizes this as follows:
+"Once you understand business models you can then start prototyping business models just like you prototype products."
+
+---
+
+
+The Canvas comprises the core elements required for the creation and profitability of your value proposition. You must answer the following questions for every business model prototype:
+
+- Which resources and skills will we have to use for a cost-effective value proposition?
+- Which activities are required for it? Do we need partners for it? If so, which ones?
+- Who are our target customers (customer groups)?
+- Which channels will we use to reach our target customers?
+- What relationships do we need to build with our target customers to continuously generate sufficiently high revenues to achieve our profitability objectives?
+
+Answering these questions will also help you to understand which of your current skills or resources are not so easy for your competition to copy and could additionally create potential benefits for the growth engine for the day after tomorrow.
+
+# 5. TEST AND LEARN 
+
+"Your No. 1 goal is to reduce the risk of failure and uncertainty."
+Alexander Osterwalder, Swiss author and inventor of the Business Model Canvas
+Test your business model prototypes on potential customers. That will enable you to reduce the risk of developing something that no one really needs or will buy. Learn from the feedback from your test customers. Continue to adapt the prototypes until you find a model that justifies the investment and development up to market maturity. Consider well which path you want to go down in the market (go-to-market). Will that work with your existing company, or will you gain market access, for example, through acquisitions?
+
+When you are experimenting, don't forget: Strategy is a plan. It has to be flexible to be able to adapt to the constantly changing conditions in your market, the competition, in trends and in your broader environment.
+
+---
+
+
+# "THE MORE SYSTEMATICALLY PEOPLE ACT, THE MORE EFFECTIVELY WILL CHANGE HIT THEM." 
+
+Friedrich Dürrenmatt, Swiss author, dramatist, and artist
+
+---
+
+
+# EXPERIMENT 
+
+Constantly reinventing yourself and never standing still has become a requirement of our fast-moving times. That means you must put strategy innovation work into your company routine. To kick off, we suggest holding a twoday workshop with a diverse team from across your organization to present the new routine and your methods and subsequently transport them into your company. One thing is important: Define and communicate a clear process for how new ideas should develop and from them real new business so that the new routine does not turn into worthless "busy work".
+
+## KEY QUESTIONS:
+
+1. Which unique skills and resources do you have in your core business that could create an advantage for you for tomorrow and maybe even the day after tomorrow?
+2. Which trends are changing your sector and threatening your business model?
+3. Which problem will you have to solve for your customers tomorrow?
+4. Are there models of successful problem solutions in other environments or contexts already?
+5. How can these models be combined into new solutions for your potential customers and their problems?
+6. Which value propositions could you make to your personas with these new solution combinations?
+7. What does your potential business model look like for each value proposition? Which unique skills and resources can you build on for this?
+8. How will you test your prototypes to reduce risks as much as possible?
+9. What could your growth engine of tomorrow look like?
+
+## INSTRUCTIONS
+
+(You will find the detailed description on the previous pages.)
+
+1. Identify the problem.
+2. Find successful models.
+3. Combine the models into new solutions.
+4. Create new value propositions and develop new business model prototypes.
+5. Test and learn.
+
+---
+
+
+# INSIGHT MATRIX 
+
+## PROBLEM
+
+SOURCES
+![img-0.jpeg](img-0.jpeg)
+
+BUSINESS MODEL CANVAS according to Osterwalder (2010)
+![img-1.jpeg](img-1.jpeg)
+
+---
+
+
+# "IF YOU INTEND TO RENEW YOURSELF, DO IT EVERY DAY." 
+
+Confucius
+
+---
+
+
+# ADJUST 
+
+![img-0.jpeg](img-0.jpeg)
+
+---
+
+
+# CONTINUOUSLY ADJUST YOUR COURSE 
+
+"Dangers await only those who do not react to life. He who picks up the stimuli emanating from society and designs his policy accordingly does not need to fear difficulties."
+Mikhail S. Gorbachev, last President of the Soviet Union.
+Shutdowns of cities and ports due to COVID-19, exploding energy prices, suspension of gas deliveries for your industry, acute water shortages at production sites, uncertainty among consumers who are restricting their consumption because of inflation fears, a new conflict between China and Taiwan - it feels like the world is turning faster than ever before. Events that were once far away and of no significance to your company - they don't exist anymore. Everything is connected. Today, you should probably find it interesting to know if the proverbial sack of rice falls over in China.
+
+Amid the most recent geopolitical and pandemic developments, international interdependencies and the globality of supply chains are changing radically and unpredictably. So how flexible does your strategy have to be? How often should you adjust your strategy? Every three years, once a year, once a quarter, monthly, or ad hoc?
+
+The final process step in our strategy workflow is the continuous adjustment of the strategy you are implementing. For many companies, this constitutes the greatest challenge. But at the same time there is also great scope for misunderstandings here. What do we need to adjust within which time frames? And if we have to be constantly adjusting, isn't developing a strategy a waste of time anyway?
+
+The answer is: No. There are elements, like, for example, your target vision, that you should keep firmly in your sights. But you have to constantly check the path you are on to reach it and adjust course in the event of large stumbling blocks, wrong equipment, or unexpected changes in terrain. Likewise, if your initial situation changes, you should clarify whether you are still on course and will be able to reach your target vision within the desired time frame.
