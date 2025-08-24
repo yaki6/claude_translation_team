@@ -8,7 +8,7 @@ Translation team system that processes business strategy Markdown files from Eng
 ## Agent Workflow
 1. **Chief Editor Briefing Agent**: Pre-translation analysis and briefing creation
 2. **Business Strategy Translator Agent**: Translates English content to Chinese with business strategy focus
-3. **Chinese Business Editor Agent**: Performs 3-round quality review with domain expertise
+3. **Chinese Business Editor Agent**: Performs editorial review with domain expertise to elevate the "quality" (by Robert Persig)
 
 ## Processing Flow
 - Agents work through all markdown files in `data/chunks_20k/` directory sequentially
@@ -49,26 +49,6 @@ mkdir -p data/{chunks_20k,briefings,translated,reviewed/round1,reviewed/round2,r
 ### 3. Validate Setup
 - Verify chunks exist: `ls data/chunks_20k/`
 - Check directory structure is complete
-
-## Usage
-
-### Sequential Workflow
-Execute agents in this order:
-
-1. **Chief Editor Briefing**: 
-   ```
-   /task chief-editor-briefing "Analyze all chunks in data/chunks_20k/ and create briefings"
-   ```
-
-2. **Business Strategy Translator**:
-   ```
-   /task business-strategy-translator "Translate all chunks using briefings from data/briefings/"
-   ```
-
-3. **Chinese Business Editor**:
-   ```
-   /task chinese-business-editor "Review and refine all translations through 3 rounds"
-   ```
 
 ### Resume Interrupted Workflow
 Agents automatically check state files and resume from last incomplete chunk.
