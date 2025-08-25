@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Output
+*.pdf
+*.log
+
+# State files
+data/state/*.json
+data/output/*.pdf
